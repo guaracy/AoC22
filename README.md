@@ -20,3 +20,5 @@ Essa semana, resolvi dar uma olhadinha em MUMPS/M. Pensei que podia resolver alg
 ### Problemas
 
 [day1](day1.md)
+
+[day2](day2.md)
