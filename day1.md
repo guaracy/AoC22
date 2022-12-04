@@ -24,4 +24,6 @@ Basicamente temos um conjunto da valores numéricos separados por uma linha em b
 
 10. A linha 17 mostra o resultado na tela (a exclamação indica nova linha)
 
+Interessante também é a indentação que utiliza pontos para cada nível. Facilita a leitura até com qualquer editor de textos.
+
 Para quem não conhece a linguagem, acho que ficou bom com apenas 17 linhas. 
