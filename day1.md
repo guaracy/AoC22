@@ -1,3 +1,5 @@
+# Dia 1
+
 Problema: https://adventofcode.com/2022/day/1
 
 ![](images/day1.png)

@@ -22,3 +22,9 @@ Essa semana, resolvi dar uma olhadinha em MUMPS/M. Pensei que podia resolver alg
 [day1](day1.md)
 
 [day2](day2.md)
+
+[day3](day3.md)
+
+
+
+# 
