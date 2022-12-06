@@ -1,6 +1,6 @@
 Problema: https://adventofcode.com/2022/day/1
 
-![](day1.png)
+![](images/day1.png)
 
 Basicamente temos um conjunto da valores numéricos separados por uma linha em branco. 
 
@@ -27,3 +27,19 @@ Basicamente temos um conjunto da valores numéricos separados por uma linha em b
 Interessante também é a indentação que utiliza pontos para cada nível. Facilita a leitura até com qualquer editor de textos.
 
 Para quem não conhece a linguagem, acho que ficou bom com apenas 17 linhas. 
+
+### parte dois
+
+Bem, os problemas do AoC, após resolvida a parte um, abre a possibilidade de resolver a parte dois. Necessita de alguma alteração no programa desenvolvido para a parte 1.
+
+O programa apto para resolver as duas partes do problema ficou assim:
+
+![](images/day1a.png)
+
+- Como a primeira parte queria saber o maior e a segunda parte os três maiores valores, criei a rotina *maximos* que já calcula os três maiores valores. A primeira parte é o maior e a segunda a soma dos três maiores. 
+
+- Note um ```halt``` no final do programa para que ele não execute a rotina novamente. Para o término da rotina é utilizado o ```quit```. 
+
+- A expressão ```s:max3<tot max3=tot``` seria o equivalente a ```if max3<tot then max3=tot```.
+
+- As variáveis são globais mas, na função maximo, poderia ter ```new tot``` que seria considerada local.
