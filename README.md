@@ -25,6 +25,16 @@ Essa semana, resolvi dar uma olhadinha em MUMPS/M. Pensei que podia resolver alg
 
 [day3](day3.md)
 
+# Fontes
 
+Alguns links que podem ser interessantes para quem deseja um pouco mais de informações sobre a linguagem.
 
-# 
+- [Mumps Programming Language](http://threadsafebooks.com/index.html) - material para consulta e link para compilador (utilizado aqui).
+
+- [YottaDB](https://yottadb.com/) - Banco de dados noSQL de código aberto utilizado em sistemas de saúde, bancos, etc. A linguagem é MUMPS/M mas possui API para acessar o DB em C, Go, Rust, Python e Lua. Tem ocumentação própria para M, APIs, etc..
+
+- [InterSystem](https://www.intersystems.com/) - Semelhante ao YottaDB mas é comercial. Fora as diversas empresas que usam (Petrobras, HSBC, 3M, Roche, etc.).
+
+- [Epic](https://www.epic.com/epic/post/healthcare-mapping-milky-way-5-things-didnt-know-epics-tech) - De sistemas hospitalares ao mapeamento da via láctea usando MUMPS/M.
+
+- [Jacquard Systems Research](http://www.jacquardsystems.com/) - bastante material sobre MUMPS.
